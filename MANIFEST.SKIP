@@ -1,0 +1,10 @@
+\.cvsignore
+^blib
+~$
+GHash.bs
+GHash.o
+GHash.c
+MANIFEST.SKIP
+Makefile
+pm_to_blib
+CVS/
